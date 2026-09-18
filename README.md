@@ -76,7 +76,7 @@
 
 ### Using [vim-plug](https://github.com/junegunn/vim-plug)
 <details>
-  <summary>Add the following to your `init.vim` or `init.lua`:
+  <summary>Add the following to your `init.vim`:
 </summary>
 
   ```vim
@@ -120,4 +120,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
-
